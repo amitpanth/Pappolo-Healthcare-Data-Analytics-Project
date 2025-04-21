@@ -8,7 +8,7 @@ The **Pappolo Hospitals: Work and Leads Workflow** dashboard provides a comprehe
 
 ## 📷 Dashboard Screenshot
 
-![image alt](https://github.com/amitpanth/Pappolo-Healthcare-Data-Analytics-Project/blob/95905b67c6652c0f0bb79afe6851740cb1ddaea5/Screenshot%202025-04-21%20132603.png)
+![image alt](https://github.com/amitpanth/Pappolo-Healthcare-Data-Analytics-Project/blob/7127f85304d5ae77075a2b4c900688e41e2f563e/Pappolo%20Hospital%20Dashboard_page-0001.jpg)
 
 ---
 
