@@ -85,5 +85,5 @@ The **Pappolo Hospitals: Work and Leads Workflow** dashboard provides a comprehe
 ## 📞 Contact
 
 For queries or collaboration:  
-**Amit Panth** – *Data Analyst | Dashboard Developer*  
-📧 [Insert your email or LinkedIn here]
+**Amit Panth** – *Data Analyst | 
+📧 amitpanthofficial@gmail.com
