@@ -6,6 +6,12 @@ The **Pappolo Hospitals: Work and Leads Workflow** dashboard provides a comprehe
 
 ---
 
+## 📷 Dashboard Screenshot
+
+![Pappolo Healthcare Dashboard](dashboard.png)
+
+---
+
 ## 📁 Dataset Information
 
 - **Total Rows:** ~28,000
