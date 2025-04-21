@@ -6,10 +6,9 @@ The **Pappolo Hospitals: Work and Leads Workflow** dashboard provides a comprehe
 
 ---
 
-## 📷 Dashboard Screenshot
+## 📷 Dashboard Preview
 
-![image alt](https://github.com/amitpanth/Pappolo-Healthcare-Data-Analytics-Project/raw/7127f85304d5ae77075a2b4c900688e41e2f563e/Pappolo%20Hospital%20Dashboard_page-0001.jpg)
-
+<img src="https://github.com/amitpanth/Pappolo-Healthcare-Data-Analytics-Project/raw/main/Pappolo%20Hospital%20Dashboard_page-0001.jpg" alt="Pappolo Healthcare Dashboard" width="100%">
 
 ---
 
@@ -74,7 +73,7 @@ The **Pappolo Hospitals: Work and Leads Workflow** dashboard provides a comprehe
 
 ---
 
-## 📌 How to Use
+## 🚀 How to Use
 
 1. Load the dataset into Power BI.
 2. Use slicers to filter by **Patient ID** or **date range**.
